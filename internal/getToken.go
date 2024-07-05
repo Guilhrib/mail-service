@@ -11,11 +11,11 @@ import (
 )
 
 const (
-	clietnId     = "e10e427c-dc8c-4d03-b11e-67381a3376e1"
-	tenantId     = "97741127-d91c-4a45-8df5-6e6743e95aa1"
-	clientSecret = "voJ8Q~Q0o4piI64nlyVNzxaq-zS1~~GPSR6LGb3h"
-	username     = "sistema@agapys.com"
-	password     = "Mub66180"
+	clietnId     = ""
+	tenantId     = ""
+	clientSecret = ""
+	username     = "email remetende"
+	password     = "senha do email remetente"
 	requestUrl   = "https://login.microsoftonline.com/" + tenantId + "/oauth2/v2.0/token"
 )
 
